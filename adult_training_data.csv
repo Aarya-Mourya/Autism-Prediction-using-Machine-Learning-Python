@@ -1,0 +1,26 @@
+A1_Score,A2_Score,A3_Score,A4_Score,A5_Score,A6_Score,A7_Score,A8_Score,A9_Score,A10_Score,age,gender,ethnicity,jundice,contry_of_res,used_app_before,result,age_desc,relation,Class/ASD
+1,1,1,1,1,1,1,1,1,1,20.0,F,Asian,1,USA,0,1,18 and more,Parent,NO
+1,1,0,0,1,0,0,0,1,0,31.0,M,Latino,1,Brazil,1,1,18 and more,Relative,YES
+1,0,1,0,1,0,1,0,1,0,25.0,M,White-European,1,UK,1,1,18 and more,Self,YES
+1,0,0,1,1,0,0,1,1,0,32.0,F,Black,1,France,1,1,18 and more,Parent,YES
+0,1,1,1,0,1,1,1,0,1,36.0,M,South Asian,1,Netherlands,1,1,18 and more,Parent,YES
+1,0,1,0,1,1,1,0,1,1,40.0,F,Middle Eastern,0,Germany,0,0,18 and more,Self,NO
+0,0,1,1,0,1,1,1,0,1,26.0,M,Others,0,South Africa,0,0,18 and more,Others,NO
+0,1,1,1,0,1,1,1,0,1,33.0,F,Asian,0,Russia,0,0,18 and more,Parent,NO
+1,0,1,1,1,1,1,1,1,1,40.0,F,Others,0,Switzerland,0,0,18 and more,Others,NO
+0,1,1,1,0,1,1,1,0,1,30.0,F,Asian,0,USA,0,0,18 and more,Parent,NO
+1,1,0,0,1,0,0,0,1,0,28.0,M,Latino,1,Canada,1,1,18 and more,Relative,YES
+1,1,1,1,1,1,1,1,1,1,,,,0,,0,1,4-11 years,,YES
+0,0,1,1,0,1,1,1,0,1,35.0,M,Others,0,Australia,0,0,18 and more,Others,NO
+1,0,1,1,1,1,1,1,1,1,25.0,F,Asian,0,Belgium,0,0,18 and more,Parent,NO
+0,1,0,1,0,1,0,1,0,1,44.0,M,White-European,0,USA,1,1,4-11 years,Parent,YES
+0,1,0,0,0,0,0,0,0,0,32.0,M,Latino,1,Ireland,1,1,18 and more,Relative,YES
+0,0,1,1,0,1,1,1,0,1,24.0,M,Native American,1,Norway,1,1,18 and more,Others,YES
+0,1,0,1,0,1,0,1,1,1,20.0,F,Asian,1,USA,0,1,4-11 years,Others,YES
+0,1,1,0,0,1,1,0,0,1,30.0,M,White-European,1,Denmark,1,1,18 and more,Self,YES
+1,1,0,0,1,0,0,0,1,0,27.0,M,Hispanic,0,Italy,0,0,18 and more,Relative,NO
+1,0,1,0,1,1,1,0,1,1,29.0,M,White-European,1,Japan,1,1,18 and more,Self,YES
+1,0,0,1,1,0,0,1,1,0,39.0,F,Black,1,Egypt,1,1,18 and more,Parent,YES
+0,1,0,0,0,0,0,1,0,0,20.0,F,White-European,0,Canada,0,0,4-11 years,Self,NO
+1,0,0,1,1,0,0,1,1,0,37.0,F,Pacific Islander,0,Finland,0,0,18 and more,Parent,NO
+0,1,1,1,0,1,1,1,0,1,22.0,M,South Asian,1,Spain,1,1,18 and more,Parent,YES

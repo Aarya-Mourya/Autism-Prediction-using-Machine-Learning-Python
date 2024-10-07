@@ -1,0 +1,30 @@
+A1_Score,A2_Score,A3_Score,A4_Score,A5_Score,A6_Score,A7_Score,A8_Score,A9_Score,A10_Score,age,gender,ethnicity,jundice,austim,contry_of_res,used_app_before,result,age_desc,relation,Class/ASD
+1,0,1,0,1,0,1,0,1,0,3,M,White-European,1,0,UK,1,1,4-11 years,Self,YES
+0,1,1,1,0,1,1,1,0,1,4,F,Asian,0,1,USA,0,0,4-11 years,Parent,NO
+1,1,0,0,1,0,0,0,1,0,5,M,Latino,1,0,Canada,1,1,4-11 years,Relative,YES
+0,0,1,1,0,1,1,1,0,1,6,M,Others,0,1,Australia,0,0,4-11 years,Others,NO
+1,0,0,1,1,0,0,1,1,0,3,F,Black,1,0,France,1,1,4-11 years,Parent,YES
+1,0,1,0,1,1,1,0,1,1,4,F,Middle Eastern,0,1,Germany,0,0,4-11 years,Self,NO
+0,1,1,1,0,1,1,1,0,1,5,M,South Asian,1,0,Spain,1,1,4-11 years,Parent,YES
+1,1,0,0,1,0,0,0,1,0,6,M,Hispanic,0,1,Italy,0,0,4-11 years,Relative,NO
+0,0,1,1,0,1,1,1,0,1,3,F,Native American,1,0,India,1,1,4-11 years,Others,YES
+1,0,0,1,1,0,0,1,1,0,4,F,Pacific Islander,0,1,China,0,0,4-11 years,Parent,NO
+1,0,1,0,1,1,1,0,1,1,5,M,White-European,1,0,Japan,1,1,4-11 years,Self,YES
+0,1,1,1,0,1,1,1,0,1,6,F,Asian,0,1,Russia,0,0,4-11 years,Parent,NO
+1,1,0,0,1,0,0,0,1,0,3,M,Latino,1,0,Brazil,1,1,4-11 years,Relative,YES
+0,0,1,1,0,1,1,1,0,1,4,M,Others,0,1,South Africa,0,0,4-11 years,Others,NO
+1,0,0,1,1,0,0,1,1,0,5,F,Black,1,0,Egypt,1,1,4-11 years,Parent,YES
+1,0,1,0,1,1,1,0,1,1,6,F,Middle Eastern,0,1,Mexico,0,0,4-11 years,Self,NO
+0,1,1,1,0,1,1,1,0,1,3,M,South Asian,1,0,Netherlands,1,1,4-11 years,Parent,YES
+1,1,0,0,1,0,0,0,1,0,4,F,Hispanic,0,1,Sweden,0,0,4-11 years,Relative,NO
+0,0,1,1,0,1,1,1,0,1,5,M,Native American,1,0,Norway,1,1,4-11 years,Others,YES
+1,0,0,1,1,0,0,1,1,0,6,F,Pacific Islander,0,1,Finland,0,0,4-11 years,Parent,NO
+0,1,1,0,0,1,1,0,0,1,3,M,White-European,1,0,Denmark,1,1,4-11 years,Self,YES
+1,0,1,1,1,1,1,1,1,1,4,F,Asian,0,1,Belgium,0,0,4-11 years,Parent,NO
+0,1,0,0,0,0,0,0,0,0,5,M,Latino,1,0,Ireland,1,1,4-11 years,Relative,YES
+1,0,1,1,1,1,1,1,1,1,6,F,Others,0,1,Switzerland,0,0,4-11 years,Others,NO
+0,1,0,1,0,0,0,1,0,0,3,M,Black,1,0,Austria,1,1,4-11 years,Parent,YES
+1,0,0,0,0,0,0,0,0,1,15,F,Latino,0,0,Canada,0,0,4-11 years,Relative,NO
+0,1,0,1,0,1,0,1,1,0,10,M,Asian,1,USA,0,1,4-11 years,Self,YES,1
+0,1,1,1,0,0,0,0,0,0,30,M,Black,0,Canada,1,0,4-11 years,Parent,NO,0
+1,0,0,0,0,1,0,1,0,0,12,F,South Asian,0,India,0,0,4-11 years,Parent,NO,0

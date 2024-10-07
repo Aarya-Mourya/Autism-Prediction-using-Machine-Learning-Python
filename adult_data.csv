@@ -1,0 +1,36 @@
+A1_Score,A2_Score,A3_Score,A4_Score,A5_Score,A6_Score,A7_Score,A8_Score,A9_Score,A10_Score,age,gender,ethnicity,jundice,austim,contry_of_res,used_app_before,result,age_desc,relation,Class/ASD
+1,0,1,0,1,0,1,0,1,0,25,M,White-European,1,0,UK,1,1,18 and more,Self,YES
+0,1,1,1,0,1,1,1,0,1,30,F,Asian,0,1,USA,0,0,18 and more,Parent,NO
+1,1,0,0,1,0,0,0,1,0,28,M,Latino,1,0,Canada,1,1,18 and more,Relative,YES
+0,0,1,1,0,1,1,1,0,1,35,M,Others,0,1,Australia,0,0,18 and more,Others,NO
+1,0,0,1,1,0,0,1,1,0,32,F,Black,1,0,France,1,1,18 and more,Parent,YES
+1,0,1,0,1,1,1,0,1,1,40,F,Middle Eastern,0,1,Germany,0,0,18 and more,Self,NO
+0,1,1,1,0,1,1,1,0,1,22,M,South Asian,1,0,Spain,1,1,18 and more,Parent,YES
+1,1,0,0,1,0,0,0,1,0,27,M,Hispanic,0,1,Italy,0,0,18 and more,Relative,NO
+0,0,1,1,0,1,1,1,0,1,38,F,Native American,1,0,India,1,1,18 and more,Others,YES
+1,0,0,1,1,0,0,1,1,0,45,F,Pacific Islander,0,1,China,0,0,18 and more,Parent,NO
+1,0,1,0,1,1,1,0,1,1,29,M,White-European,1,0,Japan,1,1,18 and more,Self,YES
+0,1,1,1,0,1,1,1,0,1,33,F,Asian,0,1,Russia,0,0,18 and more,Parent,NO
+1,1,0,0,1,0,0,0,1,0,31,M,Latino,1,0,Brazil,1,1,18 and more,Relative,YES
+0,0,1,1,0,1,1,1,0,1,26,M,Others,0,1,South Africa,0,0,18 and more,Others,NO
+1,0,0,1,1,0,0,1,1,0,39,F,Black,1,0,Egypt,1,1,18 and more,Parent,YES
+1,0,1,0,1,1,1,0,1,1,41,F,Middle Eastern,0,1,Mexico,0,0,18 and more,Self,NO
+0,1,1,1,0,1,1,1,0,1,36,M,South Asian,1,0,Netherlands,1,1,18 and more,Parent,YES
+1,1,0,0,1,0,0,0,1,0,34,F,Hispanic,0,1,Sweden,0,0,18 and more,Relative,NO
+0,0,1,1,0,1,1,1,0,1,24,M,Native American,1,0,Norway,1,1,18 and more,Others,YES
+1,0,0,1,1,0,0,1,1,0,37,F,Pacific Islander,0,1,Finland,0,0,18 and more,Parent,NO
+0,1,1,0,0,1,1,0,0,1,30,M,White-European,1,0,Denmark,1,1,18 and more,Self,YES
+1,0,1,1,1,1,1,1,1,1,25,F,Asian,0,1,Belgium,0,0,18 and more,Parent,NO
+0,1,0,0,0,0,0,0,0,0,32,M,Latino,1,0,Ireland,1,1,18 and more,Relative,YES
+1,0,1,1,1,1,1,1,1,1,40,F,Others,0,1,Switzerland,0,0,18 and more,Others,NO
+0,1,0,1,0,0,0,1,0,0,29,M,Black,1,0,Austria,1,1,18 and more,Parent,YES
+1,1,1,1,1,1,1,1,1,1,20,F,Asian,1,1,USA,0,1,18 and more,Parent,NO
+1,1,1,1,1,1,1,1,1,1,,,,0,0,,0,1,4-11 years,,YES
+0,1,0,1,0,1,0,1,0,1,44,M,White-European,0,0,USA,1,1,4-11 years,Parent,YES
+0,1,0,0,0,0,0,1,0,0,20,F,White-European,0,0,Canada,0,0,4-11 years,Self,NO
+1,1,1,1,1,1,1,1,1,1,33,F,Others,1,1,Canada,0,1,4-11 years,Parent,YES
+0,1,0,1,0,1,1,1,1,1,55,M,Others,0,1,USA,0,1,4-11 years,Parent,YES
+0,1,0,1,0,1,0,1,1,1,20,F,Asian,1,1,USA,0,1,4-11 years,Others,YES
+1,1,1,1,1,1,1,1,1,1,44,F,Asian,0,USA,0,1,4-11 years,Parent,YES,1
+0,1,0,1,0,1,0,1,1,0,55,F,Black,0,USA,0,1,4-11 years,Self,YES,1
+1,1,1,1,1,1,1,1,1,1,55,F,Latino,0,USA,0,1,4-11 years,Parent,YES,1
