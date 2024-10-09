@@ -52,6 +52,7 @@ Several visualizations were created to explore the dataset and help understand t
 
 ### Age Distribution
 **Purpose:** To visualize the distribution of ages in the adult and toddler datasets.
+![age_distribution](https://github.com/user-attachments/assets/09e9c495-9145-4e29-adaa-08492e0e2d7e)
 
 - **Method:** 
   - Create histograms for adults and toddlers to show the frequency of different age groups.
