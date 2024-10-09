@@ -61,6 +61,7 @@ Several visualizations were created to explore the dataset and help understand t
 
 ### Gender Distribution
 **Purpose:** To compare the gender distribution between adults and toddlers.
+![gender_distribution](https://github.com/user-attachments/assets/9b6f609b-d1af-4c7e-adf7-d30de0c4284f)
 
 - **Method:**
   - Use a horizontal bar plot to represent the count of each gender.
@@ -69,6 +70,7 @@ Several visualizations were created to explore the dataset and help understand t
 
 ### Age vs Result
 **Purpose:** To visualize the relationship between age and the screening result for adults and toddlers.
+![age_vs_result](https://github.com/user-attachments/assets/0ec25ea7-43fe-410b-aead-aeb8c6b19319)
 
 - **Method:**
   - Create a scatter plot with age on the x-axis and result on the y-axis.
@@ -77,6 +79,7 @@ Several visualizations were created to explore the dataset and help understand t
 
 ### Ethnicity Distribution
 **Purpose:** To analyze the distribution of different ethnicities in the adult and toddler datasets.
+![ethnicity_distribution (1)](https://github.com/user-attachments/assets/5c129afc-fcd5-4c2e-a815-9682dbc41722)
 
 - **Method:**
   - Count the occurrences of each ethnicity using `value_counts()`.
@@ -84,9 +87,13 @@ Several visualizations were created to explore the dataset and help understand t
   - Rotate x-axis labels to avoid overlapping.
   - **Annotations:** Add labels, titles, and grid lines for better interpretation.
   - **Saving the Plot:** Save the bar plot as `ethnicity_distribution.png`.
+Project tree -
+![print asdml 21 (1) pdf-image-005](https://github.com/user-attachments/assets/1a9b5ded-1ed8-459c-b699-188065183284)
+
 
 ### Jundice Distribution
 **Purpose:** To analyze the distribution of jaundice history in the adult and toddler datasets.
+![jundice_distribution](https://github.com/user-attachments/assets/1c9a15fa-a1e1-4aef-adf2-d697624a6d93)
 
 - **Method:**
   - Count the occurrences of jaundice history (Yes/No).
@@ -96,6 +103,7 @@ Several visualizations were created to explore the dataset and help understand t
 
 ### Used App Before Distribution
 **Purpose:** To analyze the distribution of previous app usage in the adult and toddler datasets.
+![used_app_before_distribution](https://github.com/user-attachments/assets/ec0561d6-6e5a-4eb7-bd2b-b4aa570d8bcc)
 
 - **Method:**
   - Count the occurrences of previous app usage (Yes/No).
@@ -106,6 +114,8 @@ Several visualizations were created to explore the dataset and help understand t
 ## Machine Learning Model
 
 ### Random Forest Classifier
+![print asdml 21 (1) pdf-image-011](https://github.com/user-attachments/assets/9715f953-a04f-4905-9281-e194aeca552f)
+
 The Random Forest classifier is used to predict ASD based on the input data. The classifier was trained separately for adults and toddlers, and its performance was evaluated using standard metrics such as accuracy, precision, recall, and F1 score.
 
 ### Adult Model Performance
@@ -122,6 +132,8 @@ The toddler model achieved perfect results, which may be due to the size and sim
 
 ### Confusion Matrix Analysis
 A confusion matrix was generated for both models, providing deeper insight into their performance by visualizing:
+![print asdml 21 (1) pdf-image-020](https://github.com/user-attachments/assets/28ab5e36-9603-464b-8618-0494869fce5a)
+
 - True Positives (TP)
 - True Negatives (TN)
 - False Positives (FP)
