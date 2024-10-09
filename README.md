@@ -122,7 +122,7 @@ The Random Forest classifier is used to predict ASD based on the input data. The
 These results show that the model is effective in predicting ASD for the adult population, with strong precision and recall metrics indicating its reliability in identifying true positives and minimizing false negatives.
 
 ### Toddler Model Performance
-- **Accuracy, Precision, Recall, F1 Score:** 100%
+- **Accuracy, Precision, Recall, F1 Score:** 97%
 
 The toddler model achieved perfect results, which may be due to the size and simplicity of the dataset. Further testing is required to confirm the model's robustness in larger and more complex datasets.
 
@@ -136,6 +136,12 @@ A confusion matrix was generated for both models, providing deeper insight into 
 - False Negatives (FN)
 
 This analysis helps identify any potential biases or errors in the model's predictions.
+
+### Output
+#### Adult-
+![print asdml 21 (1) pdf-image-012](https://github.com/user-attachments/assets/8dd9a958-91d2-4c58-a60a-e8086ac4e61f)
+#### Toddler-
+![print asdml 21 (1) pdf-image-013](https://github.com/user-attachments/assets/d674f105-d6b7-45d0-ad3b-e06383e9bb77)
 
 ### Feature Importance
 Feature importance analysis was conducted to identify which features were most influential in predicting ASD. This analysis can help in understanding key indicators of ASD and may guide future research.
