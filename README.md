@@ -1,5 +1,3 @@
-Here’s a detailed `README.md` file structure for your project in Markdown format:
-
 ---
 
 # Autism Spectrum Disorder (ASD) Prediction Using Machine Learning
@@ -32,7 +30,8 @@ Autism Spectrum Disorder (ASD) is a complex neurodevelopmental condition. Early 
 The project also provides a set of visualizations to explore the characteristics of the dataset, as well as the performance of the models.
 
 ## Dataset
-
+Project tree -
+![print asdml 21 (1) pdf-image-005](https://github.com/user-attachments/assets/1a9b5ded-1ed8-459c-b699-188065183284)
 The dataset includes two parts:
 - **Adults:** Consisting of ASD screening results for adults.
 - **Toddlers:** Consisting of ASD screening results for toddlers.
@@ -86,10 +85,7 @@ Several visualizations were created to explore the dataset and help understand t
   - Create a vertical bar plot with separate bars for adults (blue) and toddlers (orange).
   - Rotate x-axis labels to avoid overlapping.
   - **Annotations:** Add labels, titles, and grid lines for better interpretation.
-  - **Saving the Plot:** Save the bar plot as `ethnicity_distribution.png`.
-Project tree -
-![print asdml 21 (1) pdf-image-005](https://github.com/user-attachments/assets/1a9b5ded-1ed8-459c-b699-188065183284)
-
+  - **Saving the Plot:** Save the bar plot as `ethnicity_distribution.png`
 
 ### Jundice Distribution
 **Purpose:** To analyze the distribution of jaundice history in the adult and toddler datasets.
